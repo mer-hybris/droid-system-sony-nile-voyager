@@ -9,7 +9,7 @@ ro.debuggable=0
 #
 # BOOTIMAGE_BUILD_PROPERTIES
 #
-ro.bootimage.build.date=Fri Oct 19 06:37:24 UTC 2018
-ro.bootimage.build.date.utc=1539931044
-ro.bootimage.build.fingerprint=Sony/aosp_h4413/voyager:8.1.0/OPM7.181005.003/mkosol10190637:user/dev-keys
+ro.bootimage.build.date=Tue Oct 23 13:19:18 UTC 2018
+ro.bootimage.build.date.utc=1540300758
+ro.bootimage.build.fingerprint=Sony/aosp_h4413/voyager:8.1.0/OPM7.181005.003/mkosol10231319:user/dev-keys
 persist.sys.usb.config=none
